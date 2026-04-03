@@ -1,4 +1,4 @@
 package com.example.exam2.dal;
 
-public class Dal {
+public class ShowtimeDAO {
 }
