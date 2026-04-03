@@ -1,4 +1,4 @@
 package com.example.exam2.activities;
 
-public class Activities {
+public class LoginActivity {
 }
